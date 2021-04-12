@@ -1,1 +1,1 @@
-[Twitter] (twitter.com/tyler_ward87)
+[Twitter] (https://twitter.com/Tyler_Ward87)
