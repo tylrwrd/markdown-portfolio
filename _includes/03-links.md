@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Twitter] (twitter.com/tyler_ward87)
